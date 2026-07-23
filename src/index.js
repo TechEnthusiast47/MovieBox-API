@@ -8,7 +8,7 @@
 
 const BASE_URL = "https://moviebox.ph";
 const H5_API = "https://h5-api.aoneroom.com";
-const DEFAULT_DOMAIN = "https://123movienow.cc";
+const DEFAULT_DOMAIN = "https://movie-box.co";
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 
 const CORS = {
